@@ -60,3 +60,17 @@ A implementação foi feita de forma incremental, incluindo testes após cada et
   Regras de captura
   Movimentos especiais
   Detecção de xeque e xeque-mate
+
+📄 Entregáveis
+  Código-fonte completo organizado em camadas.
+  Documentação das classes e principais métodos.
+  Diagrama UML representando a arquitetura.
+  Relatório de decisões de projeto e regras implementadas.
+  Vídeo de apresentação demonstrando o funcionamento do sistema.
+
+🎥 Vídeo de Apresentação
+O vídeo apresenta:
+  Os membros da dupla
+  A arquitetura do sistema
+  Demonstração dos principais recursos e regras implementadas
+  Desafios enfrentados no desenvolvimento
