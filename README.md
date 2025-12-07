@@ -1,5 +1,6 @@
 ♟️ Sistema de Xadrez em Camadas (Java)
-Este projeto consiste no desenvolvimento de um sistema completo de xadrez, estruturado em camadas e implementado com os princípios da Programação Orientada a Objetos (POO). O objetivo é simular partidas entre dois jogadores, seguindo as regras oficiais do jogo e aplicando boas práticas de engenharia de software.
+Este projeto consiste no desenvolvimento de um sistema completo de xadrez, estruturado em camadas e implementado com os princípios da Programação Orientada a Objetos (POO). O objetivo é simular partidas entre dois jogadores, seguindo as regras oficiais do jogo e aplicando boas práticas de engenharia de software. Feito pelos alunos Filipe Coelho e Maria Eduarda Negreiro.
+
 
 🎯 Objetivo
 Criar uma aplicação capaz de:
